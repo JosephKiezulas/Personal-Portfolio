@@ -92,18 +92,14 @@ author_profile: true
 
 <section id="resume">
   <h2>Resume</h2>
-  <p>View my resume below, or download a copy.</p>
-  
-  <div class="resume-container">
-    <iframe 
-      src="/files/joseph_kiezulas_resume_2026.pdf" 
-      width="100%" 
-      height="600px" 
-      style="border: none; border-radius: 8px;">
-    </iframe>
-  </div>
+  <iframe 
+    src="/Personal-Portfolio/files/resume.pdf" 
+    width="100%" 
+    height="800px" 
+    style="border: none;">
+  </iframe>
 
-  <a href="/files/joseph_kiezulas_resume_2026.pdf" download class="btn btn--primary btn--large" style="margin-top: 20px; background-color: #2b6cb0; border-radius: 8px;">
+  <a href="/Personal-Portfolio/files/resume.pdf" download class="btn btn--primary">
     Download Resume
   </a>
 </section>

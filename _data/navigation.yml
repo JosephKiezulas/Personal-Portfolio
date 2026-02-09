@@ -1,15 +1,15 @@
 main:
   - title: "About"
-    url: "/#about"
+    url: "/Personal-Portfolio/#about"
 
   - title: "Skills"
-    url: "/#skills"
+    url: "/Personal-Portfolio/#skills"
         
   - title: "Experience"
-    url: "/#experience"
+    url: "/Personal-Portfolio/#experience"
     
   - title: "Projects"
-    url: "/#projects"
+    url: "/Personal-Portfolio/#projects"
   
   - title: "Resume"
-    url: "/#resume"  # This stays a separate page or a link to a PDF
+    url: "/Personal-Portfolio/#resume"
