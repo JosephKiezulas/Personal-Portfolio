@@ -7,6 +7,7 @@ author_profile: true
 <section id="about">
   <h2>About Me</h2>
   I am a Computer Science student at <b>Georgia Tech</b> concentrating in Artificial Intelligence and Information Internetworks. I’m passionate about building intelligent systems and creating tools that solve real-world problems.
+</section>
 
 <hr>
 
@@ -23,7 +24,6 @@ author_profile: true
 
 <section id="experience">
   <h2>Experience</h2>
-
   <div class="experience-item">
     <p><b>Undergraduate Researcher | Agile Communication Architectures</b></p>
     <p><i>Georgia Tech VIP Program, Atlanta, GA | Aug 2024 – Present</i></p>
@@ -32,7 +32,6 @@ author_profile: true
       <li>Performing multi-modal analysis of IQ samples, Power Spectral Densities (PSDs), and spectrograms.</li>
     </ul>
   </div>
-
   <div class="experience-item">
     <p><b>Full Stack Software Engineer</b></p>
     <p><i>Freelance, Kennebunk, ME | May 2025 – Aug 2025</i></p>
@@ -42,44 +41,27 @@ author_profile: true
       <li>Managed full-cycle web deployment including DNS configuration, name server setup, and domain hosting via WordPress.</li>
     </ul>
   </div>
-
-
 </section>
 
 <hr>
 
 <section id="projects">
   <h2>Projects</h2>
-
   <div class="project-item">
-    <p><b>Domain Generalization on Small Models</b> | <i>Deep Learning, PyTorch, </i></p>
+    <p><b>Domain Generalization on Small Models</b> | <i>Deep Learning, PyTorch</i></p>
     <ul>
-      <li>Proposed and implemented methods to improve small-network robustness using lightweight invariance regularization and adversarial domain synthesis.</li>
-      <li>Benchmarked resilience on PACS, Office-Home, and VLCS datasets against SOTA methods like MixStyle and NormAug.</li>
+      <li>Proposed and implemented methods to improve small-network robustness using invariance regularization and adversarial domain synthesis.</li>
     </ul>
-    <iframe 
-      src="/Personal-Portfolio/files/final-report.pdf" 
-      width="100%" 
-      height="500px" 
-      style="border: 1px solid #444; border-radius: 8px;">
-    </iframe>
+    <iframe src="/Personal-Portfolio/files/final-report.pdf" width="100%" height="500px" style="border: 1px solid #444; border-radius: 8px;"></iframe>
     <a href="/Personal-Portfolio/files/final-report.pdf" download class="btn btn--primary">Download Paper</a>
   </div>
-
-
 
   <div class="project-item">
     <p><b>Consumer Purchase Behavior Analysis</b> | <i>ML, Python, Scikit-learn</i></p>
     <ul>
       <li>Achieved a 94% accuracy rate in forecasting customer purchase decisions using a Random Forests predictive model.</li>
-      <li>Experimented with Gradient Boosting Machines and Logistic Regression to optimize model performance.</li>
     </ul>
-    <iframe 
-      src="/Personal-Portfolio/files/Customer_Purchase_Behavior.pdf" 
-      width="100%" 
-      height="500px" 
-      style="border: 1px solid #444; border-radius: 8px;">
-    </iframe>
+    <iframe src="/Personal-Portfolio/files/Customer_Purchase_Behavior.pdf" width="100%" height="500px" style="border: 1px solid #444; border-radius: 8px;"></iframe>
     <a href="/Personal-Portfolio/files/Customer_Purchase_Behavior.pdf" download class="btn btn--primary">Download Paper</a>
   </div>
 
@@ -87,34 +69,14 @@ author_profile: true
     <p><b>Intelligent Music Recommendation & Analysis</b> | <i>Java, Spotify API, Firebase</i></p>
     <ul>
       <li>Engineered an AI-powered platform providing real-time song recommendations by analyzing auditory features via Spotify’s Web API.</li>
-      <li>Integrated Firebase authentication and Firestore for seamless cross-device access and persistent cloud storage.</li>
     </ul>
   </div>
+</section>
 
-  <div class="project-item">
-    <p><b>Application Security Research & Exploitation</b> | <i>Python, Cybersecurity</i></p>
-    <ul>
-      <li>Demonstrated cryptographic attacks (RSA padding, hash collisions) and forged digital signatures.</li>
-      <li>Crafted buffer overflows and ROP chains for control-flow hijacking, and performed web exploits including SQLi and XSS.</li>
-    </ul>
-  </div>
-
- 
-
-
-</section> 
+<hr>
 
 <section id="resume">
   <h2>Resume</h2>
-  <iframe 
-    src="/Personal-Portfolio/files/Joseph_Kiezulas_Resume_2026.pdf" 
-    width="100%" 
-    height="800px" 
-    style="border: none;">
-  </iframe>
-
-  <a href="/Personal-Portfolio/files/Joseph_Kiezulas_Resume_2026.pdf" download class="btn btn--primary">
-    Download Resume
-  </a>
+  <iframe src="/Personal-Portfolio/files/Joseph_Kiezulas_Resume_2026.pdf" width="100%" height="800px" style="border: none;"></iframe>
+  <a href="/Personal-Portfolio/files/Joseph_Kiezulas_Resume_2026.pdf" download class="btn btn--primary">Download Resume</a>
 </section>
-
