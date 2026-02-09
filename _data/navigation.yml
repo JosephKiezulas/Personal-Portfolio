@@ -1,15 +1,11 @@
 main:
   - title: "About"
-    url: "/Personal-Portfolio/#about"
-
+    url: "/#about"
   - title: "Skills"
-    url: "/Personal-Portfolio/#skills"
-        
+    url: "/#skills"
   - title: "Experience"
-    url: "/Personal-Portfolio/#experience"
-    
+    url: "/#experience"
   - title: "Projects"
-    url: "/Personal-Portfolio/#projects"
-  
+    url: "/#projects"
   - title: "Resume"
-    url: "/Personal-Portfolio/#resume"
+    url: "/#resume"

@@ -93,13 +93,13 @@ author_profile: true
 <section id="resume">
   <h2>Resume</h2>
   <iframe 
-    src="/Personal-Portfolio/files/resume.pdf" 
+    src="{{ base_path }}/files/Joseph_Kiezulas_Resume_2026.pdf" 
     width="100%" 
-    height="800px" 
-    style="border: none;">
+    height="800px" >
   </iframe>
 
-  <a href="/Personal-Portfolio/files/resume.pdf" download class="btn btn--primary">
+  <a href="{{ base_path }}/files/Joseph_Kiezulas_Resume_2026.pdf" download class="btn btn--primary">
     Download Resume
   </a>
 </section>
+
