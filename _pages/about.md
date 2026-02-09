@@ -57,6 +57,13 @@ author_profile: true
       <li>Proposed and implemented methods to improve small-network robustness using lightweight invariance regularization and adversarial domain synthesis.</li>
       <li>Benchmarked resilience on PACS, Office-Home, and VLCS datasets against SOTA methods like MixStyle and NormAug.</li>
     </ul>
+    <iframe 
+      src="/Personal-Portfolio/files/final-report.pdf" 
+      width="100%" 
+      height="500px" 
+      style="border: 1px solid #444; border-radius: 8px;">
+    </iframe>
+    <a href="/Personal-Portfolio/files/final-report.pdf" download class="btn btn--primary">Download Paper</a>
   </div>
 
 
@@ -67,6 +74,13 @@ author_profile: true
       <li>Achieved a 94% accuracy rate in forecasting customer purchase decisions using a Random Forests predictive model.</li>
       <li>Experimented with Gradient Boosting Machines and Logistic Regression to optimize model performance.</li>
     </ul>
+    <iframe 
+      src="/Personal-Portfolio/files/Customer_Purchase_Behavior.pdf" 
+      width="100%" 
+      height="500px" 
+      style="border: 1px solid #444; border-radius: 8px;">
+    </iframe>
+    <a href="/Personal-Portfolio/files/Customer_Purchase_Behavior.pdf" download class="btn btn--primary">Download Paper</a>
   </div>
 
   <div class="project-item">
