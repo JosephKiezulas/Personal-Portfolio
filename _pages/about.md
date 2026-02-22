@@ -45,29 +45,29 @@ author_profile: true
 
 <section id="projects">
   <h2>Projects</h2>
+  
   <div class="project-item">
     <p><b>Domain Generalization on Small Models</b> | <i>Deep Learning, PyTorch</i></p>
-    <ul>
-      <li>Proposed and implemented methods to improve small-network robustness using invariance regularization and adversarial domain synthesis.</li>
+   <ul>
+      <li><b>Role & Context:</b> Researcher and developer for group Deep Learning project focused on improving the robustness of small-scale neural networks against data distribution shifts.</li>
+      <li><b>Technical Contributions:</b> Implemented a robust evaluation pipeline featuring data augmentation utilities and LFA regularization parameter tuning. Conducted extensive ablation studies and comparative experiments using ERM and MixStyle architectures.</li>
+      <li><b>Key Results:</b> Automated the entire result aggregation and metric computation workflow to identify specific failure cases. Finalized the project by generating all analytical plots and authoring sections of the technical report, including the Related Work and Limitations.</li>
     </ul>
-    <iframe src="/Personal-Portfolio/files/final-report.pdf" width="100%" height="500px" style="border: 1px solid #444; border-radius: 8px;"></iframe>
-    <a href="/Personal-Portfolio/files/final-report.pdf" download class="btn btn--primary">Download Paper</a>
+    <a href="/Personal-Portfolio/files/final-report.pdf" target="_blank" class="btn btn--primary">View Paper</a>
+    <a href="https://colab.research.google.com/drive/15mLlPcQ0tYL8j7FHDtjBGWm3w_TC8eQa" target="_blank" class="btn btn--info">Jupyter Notebook</a>
   </div>
+
+  <hr>
 
   <div class="project-item">
     <p><b>Consumer Purchase Behavior Analysis</b> | <i>ML, Python, Scikit-learn</i></p>
     <ul>
-      <li>Achieved a 94% accuracy rate in forecasting customer purchase decisions using a Random Forests predictive model.</li>
+      <li><b>Role & Context:</b> Collaborative machine learning project developed in a two-person partnership.</li>
+      <li><b>Technical Contributions:</b> Created the end-to-end data pipeline, including rigorous data cleaning and preprocessing; engineered and optimized a Random Forest predictive model while collaborating with a partner who implemented Linear Regression and GBM architectures.</li>
+      <li><b>Key Results:</b> Achieved a 94% forecast accuracy rate in predicting customer purchase decisions.</li>
     </ul>
-    <iframe src="/Personal-Portfolio/files/Customer_Purchase_Behavior.pdf" width="100%" height="500px" style="border: 1px solid #444; border-radius: 8px;"></iframe>
-    <a href="/Personal-Portfolio/files/Customer_Purchase_Behavior.pdf" download class="btn btn--primary">Download Paper</a>
-  </div>
-
-  <div class="project-item">
-    <p><b>Intelligent Music Recommendation & Analysis</b> | <i>Java, Spotify API, Firebase</i></p>
-    <ul>
-      <li>Engineered an AI-powered platform providing real-time song recommendations by analyzing auditory features via Spotify’s Web API.</li>
-    </ul>
+    <a href="/Personal-Portfolio/files/Customer_Purchase_Behavior.pdf" target="_blank" class="btn btn--primary">View Paper</a>
+    <a href="https://colab.research.google.com/drive/1cWwdI3gwnq9r13xYFOnMnv9czPcNK5uT" target="_blank" class="btn btn--info">Jupyter Notebook</a>
   </div>
 </section>
 
