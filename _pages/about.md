@@ -13,11 +13,9 @@ author_profile: true
 
 <section id="skills">
   <h2>Skills</h2>
-  <ul>
-    <li><b>Languages:</b> Python, Java, C, C++, JavaScript, SQL, Swift, Dart</li>
-    <li><b>Frameworks/Tools:</b> Flutter, Firebase, Android Studio, Xcode, Git, SQLite, REST APIs, WordPress, HTML/CSS, Node.js</li>
-    <li><b>AI/ML:</b> PyTorch, Scikit-learn, NumPy, pandas</li>
-  </ul>
+  <p><b>Languages:</b> Python, Java, C, C++, JavaScript, SQL, Swift, Dart</p>
+  <p><b>Frameworks/Tools:</b> Flutter, Firebase, Android Studio, Xcode, Git, SQLite, REST APIs, WordPress, HTML/CSS, Node.js</p>
+  <p><b>AI/ML:</b> PyTorch, Scikit-learn, NumPy, pandas</p>
 </section>
 
 <hr>
