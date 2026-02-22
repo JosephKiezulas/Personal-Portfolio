@@ -6,7 +6,7 @@ author_profile: true
 
 <section id="about">
   <h2>About Me</h2>
-  I am a Computer Science student at <b>Georgia Tech</b> concentrating in Artificial Intelligence and Information Internetworks. I’m passionate about building intelligent systems and creating tools that solve real-world problems.
+ Hi, I'm Joe, a Computer Science student at Georgia Tech concentrating in Artificial Intelligence and Information Internetworks. I'm passionate about building intelligent systems at the intersection of machine learning and wireless communications. Currently, I conduct undergraduate research at Georgia Tech, where I develop multi-modal deep learning pipelines for Software Defined Radio (SDR). My recent work focuses on designing orthogonal neural networks fusing Time, Frequency, and Delay-Doppler (OTFS) domains to detect complex signal anomalies. I am actively seeking a Summer 2026 internship or full-time role in AI/ML or software engineering where I can complex, data-driven challenges.
 </section>
 
 <hr>
