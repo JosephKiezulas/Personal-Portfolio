@@ -26,10 +26,11 @@ author_profile: true
     <p><b>Undergraduate Researcher | Agile Communication Architectures</b></p>
     <p><i>Georgia Tech VIP Program, Atlanta, GA | Aug 2024 – Present</i></p>
     <ul>
-      <li>Applying deep learning techniques for anomaly detection in OFDM-based Software Defined Radio (SDR) data.</li>
-      <li>Performing multi-modal analysis of IQ samples, Power Spectral Densities (PSDs), and spectrograms.</li>
+      <li>Architected a 3-way orthogonal anomaly detection ensemble for Software Defined Radio (SDR) using parallel Deep Autoencoders and LSTMs.</li>
+      <li>Engineered strict power-normalization pipelines to isolate signal vulnerabilities across Time, Frequency, and Delay-Doppler (OTFS) domains.</li>
+      <li>Developed a weighted fusion algorithm that covers individual model blind spots, increasing baseline detection AUC from 0.81 to over 0.98.</li>
     </ul>
-  </div>
+</div>
   <div class="experience-item">
     <p><b>Full Stack Software Engineer</b></p>
     <p><i>Freelance, Kennebunk, ME | May 2025 – Aug 2025</i></p>
